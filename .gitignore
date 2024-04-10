@@ -1,4 +1,4 @@
-/stocks_venv/
+stocks_venv
 *.pyc
 .DS_Store
 .env
