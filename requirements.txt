@@ -1,0 +1,8 @@
+dash==2.16.1
+dash_auth==2.3.0
+pandas==2.2.1
+pandas_datareader==0.10.0
+plotly==5.20.0
+yfinance==0.2.37
+gunicorn
+dash-tools
